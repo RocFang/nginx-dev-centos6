@@ -11,3 +11,4 @@ RUN yum install -y pcre-devel
 RUN yum install -y zlib-devel
 RUN yum install -y openssl-devel
 RUN yum install -y git
+RUN yum install -y lrzsz
